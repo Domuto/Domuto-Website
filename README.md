@@ -1,12 +1,6 @@
-# Takuya's Homepage
+# Daniel OmutoHomepage
 
-[https://www.craftz.dog/](https://www.craftz.dog/)
-
-## Tutorial
-
-Watch how I built this website on YouTube:
-
-[![YouTube thumbnail](./doc/thumb.png)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
+#Thank you Takuya!
 
 ## Stack
 
